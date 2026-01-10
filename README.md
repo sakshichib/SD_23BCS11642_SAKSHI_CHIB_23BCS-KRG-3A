@@ -31,8 +31,3 @@ To design, implement, and evaluate a basic URL shortening service and measure it
 3. Short URL is stored in the database
 4. Requests to short URL redirect to original URL
 
-## Future Improvements
-- Custom short URLs
-- Expiry time for URLs
-- Caching for faster redirection
-- Load balancing and scalability support
